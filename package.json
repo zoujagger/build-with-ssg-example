@@ -1,0 +1,16 @@
+{
+  "name": "building-with-ssg-example",
+  "version": "1.0.0",
+  "description": "build automation\r use static site generator example gatsby, next.js, Eleventy",
+  "main": "vibe.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
